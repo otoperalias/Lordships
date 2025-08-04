@@ -11,13 +11,15 @@ It further includes a large array of geographic variables for Spain and addition
 
 <img src="files/map_jurisd.png" alt="drawing" width="650"/>
 
+<br /> 
+
 > **Spanish dataset: [click here to download](www.asdfasdfasdf)** [UNDER CONSTRUCTION]
 
 > **Granada dataset: [click here to download.](www.asdfasdfasdf)** [UNDER CONSTRUCTION]
 
 **Please cite the data as**: Daniel Oto-Peralías (2025). "Delegating Governmental Authority to Private Actors: Lordships, State Capacity and Development" ASDFASDFASDF
 
-The code to replicated the paper is available [here](www.asdfasdfasdf) [UNDER CONSTRUCTION]
+The code to replicate the paper is available [here](www.asdfasdfasdf) [UNDER CONSTRUCTION]
  
 <br /> 
 
