@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Lordships
 description: A dataset for ancien-regime Spain.
-show_downloads: true
+show_downloads: false
 google_analytics:
