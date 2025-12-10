@@ -31,5 +31,4 @@ The data are provided aggregated by the current municipalities. The dataset furt
 
 **Please cite the data as**: Oto-Peralías, Daniel (2025). "Delegating governmental authority to private actors: Lordships, state capacity and development". *Explorations in Economic History*, forthcoming.  
 <br /> 
-The replication package for this paper is available at [openICPSR](https://doi.org/10.3886/E241030V1).
- <br /> 
+
