@@ -13,9 +13,9 @@ It further includes a large array of climatic and geographic variables for Spain
 
 <br /> 
 
-> **Floridablanca 1787 Census: municipal-level dataset: [click here to download](https://github.com/otoperalias/Lordships/blob/main/files/CFB1787_v1.xlsx)**
+> **Floridablanca 1787 Census: municipal-level dataset: [click here to download](https://github.com/otoperalias/Lordships/raw/refs/heads/main/files/CFB1787_v1.xlsx)**
 
-> **Geographic and climatic dataset: [click here to download.](www.asdfasdfasdf)** [UNDER CONSTRUCTION]
+> **Geographic and climatic dataset: [click here to download](https://github.com/otoperalias/Lordships/raw/refs/heads/main/files/geoclimatic_v1.xlsx)** 
 
 <br /> 
 
