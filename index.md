@@ -13,13 +13,15 @@ It further includes a large array of climatic and geographic variables for Spain
 
 <br /> 
 
-> **Floridablanca 1787 census dataset: [click here to download](www.asdfasdfasdf)** [UNDER CONSTRUCTION]
+> **Floridablanca 1787 Census: municipal-level dataset: [click here to download](https://github.com/otoperalias/Lordships/blob/main/files/CFB1787_v1.xlsx)**
 
 > **Geographic and climatic dataset: [click here to download.](www.asdfasdfasdf)** [UNDER CONSTRUCTION]
 
-**Please cite the data as**: Daniel Oto-Peralías (2025). "Delegating Governmental Authority to Private Actors: Lordships, State Capacity and Development" ASDFASDFASDF
+<br /> 
 
-The replication package for this paper is available at [openICPSR](https://doi.org/10.3886/E241030V1))
+**Please cite the data as**: Oto-Peralías, Daniel (2025). "Delegating governmental authority to private actors: Lordships, state capacity and development". *Explorations in Economic History*, forthcoming.  
+<br /> 
+The replication package for this paper is available at [openICPSR](https://doi.org/10.3886/E241030V1).
  
 <br /> 
 
