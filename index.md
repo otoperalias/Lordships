@@ -21,7 +21,7 @@ The data are provided aggregated by current municipalities. The dataset further 
 
 <br /> 
 
-| Table (link)  | Content (variables) |
+| Table  | Content (variables) |
 | ------------- | ------------- |
 | [Floridablanca 1787 Census](https://github.com/otoperalias/Lordships/raw/refs/heads/main/files/CFB1787_v1.xlsx)  | Jurisdictional status, [historical regions (*intendencias*)](files/map_intend.png), locality category, total population, population in collective households, population classified by job occupation  |
 | [Geographic and climatic dataset](https://github.com/otoperalias/Lordships/raw/refs/heads/main/files/geoclimatic_v1.xlsx)  | Surface area, altitude, ruggedness, distance to the coast, distance to Madrid, distance to the provincial capital, distance to a major river, temperature, rainfall, soil quality, aridity, latitude, longitude  |
