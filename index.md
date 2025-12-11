@@ -17,7 +17,7 @@ This page provides a **dataset about ancien-regime Spain** collected for the pap
 <br /> 
 
 The dataset includes institutional, demographic, and labor-occupational variables of all population entities covered by the Floridablanca Census of 1787 ([INE](https://www.ine.es/ss/Satellite?L=es_ES&c=INEPublicacion_C&cid=1259949437001&p=1254735110672&pagename=ProductosYServicios%2FPYSLayout&param1=PYSDetalleGratuitas)). 
-The data are provided aggregated by the current municipalities. The dataset further includes a large array of climatic and geographic variables for Spain as well as additional institutional and historical variables.  
+The data are provided aggregated by current municipalities. The dataset further includes a large array of climatic and geographic variables for Spain as well as additional institutional and historical variables.  
 
 <br /> 
 
