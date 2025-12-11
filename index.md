@@ -3,7 +3,7 @@ layout: default
 ---
 ## Lordships
 
-This page provides a **dataset about ancien-regime Spain** collected for the paper "Delegating governmental authority to private actors: Lordships, state capacity and development" (forthcoming in *Explorations in Economic History*).
+This page provides a **dataset about ancien-regime Spain** collected for the paper ["Delegating governmental authority to private actors: Lordships, state capacity and development"](https://doi.org/10.1016/j.eeh.2025.101737) (forthcoming in *Explorations in Economic History*).
 
 <br /> 
 
@@ -29,6 +29,6 @@ The data are provided aggregated by the current municipalities. The dataset furt
 
 <br /> 
 
-**Please cite the data as**: Oto-Peralías, Daniel (2025). "Delegating governmental authority to private actors: Lordships, state capacity and development". *Explorations in Economic History*, forthcoming.  
+**Please cite the data as**: Oto-Peralías, Daniel (2025). "Delegating governmental authority to private actors: Lordships, state capacity and development". *Explorations in Economic History*, forthcoming. https://doi.org/10.1016/j.eeh.2025.101737 
 <br /> 
 
